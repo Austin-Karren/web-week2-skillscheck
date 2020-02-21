@@ -23,7 +23,7 @@ let faveColors = ['tomato', 'rebeccapurple', 'blue']
  const me = {
      firstName: 'Austin', 
      superHeroName: 'Phase', 
-     homeTown: 'Formax A', 
+     homeTown: 'Alpine, UT', 
      superPowers: ['Walk though walls', 'Phase materials into dust', 'Fly'],
 
      superPowerXP: function(){
